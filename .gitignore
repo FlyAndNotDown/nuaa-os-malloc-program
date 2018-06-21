@@ -1,0 +1,8 @@
+# JetBrain
+/.idea
+
+# MacOS
+/.DS_Store
+
+# cmake
+/cmake-build-debug
